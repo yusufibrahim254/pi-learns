@@ -9,9 +9,9 @@ The end goal is a headless Pi that watches through a camera or reads Arduino sen
 ## Roadmap
 
 ### Stage 1 — Living in the terminal
-- [ ] Flash the OS and boot the Pi headless (no monitor or keyboard)
-- [ ] Connect over SSH from my laptop
-- [ ] Create my own user, set up SSH keys, disable password login
+- [x] Flash the OS and boot the Pi headless (no monitor or keyboard)
+- [x] Connect over SSH from my laptop
+- [x] Create my own user, set up SSH keys, disable password login
 - [ ] Learn the filesystem layout (`/etc`, `/var/log`, `/home`, …)
 - [ ] Understand file permissions and ownership
 - [ ] Install and remove packages with `apt`
