@@ -12,11 +12,11 @@ The end goal is a headless Pi that watches through a camera or reads Arduino sen
 - [x] Flash the OS and boot the Pi headless (no monitor or keyboard)
 - [x] Connect over SSH from my laptop
 - [x] Create my own user, set up SSH keys, disable password login
-- [ ] Learn the filesystem layout (`/etc`, `/var/log`, `/home`, …)
-- [ ] Understand file permissions and ownership
-- [ ] Install and remove packages with `apt`
-- [ ] Monitor CPU, RAM, disk, and temperature
-- [ ] Set up git on the Pi and push to this repo over SSH
+- [x] Learn the filesystem layout (`/etc`, `/var/log`, `/home`, …)
+- [x] Understand file permissions and ownership
+- [x] Install and remove packages with `apt`
+- [x] Monitor CPU, RAM, disk, and temperature
+- [x] Set up git on the Pi and push to this repo over SSH
 - **Checkpoint:** reboot, reconnect, and explain every command in my shell history
 
 ### Stage 2 — A neural network with no AI libraries
