@@ -44,17 +44,6 @@ The end goal is a headless Pi that watches through a camera or reads Arduino sen
 - [ ] Run a small local LLM on the Pi
 - [ ] Have it describe what the recognizer saw in plain English
 - [ ] Write up how it differs from the model I trained myself
-
----
-
-## Learning log
-
-Short notes after each session: what I tried, what broke, and what I learned. See [`notes/`](notes/).
-
-| Date | Stage | What I learned |
-|------|-------|----------------|
-|      |       |                |
-
 ---
 
 ## Hardware
